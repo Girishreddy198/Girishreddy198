@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... devops tools
 - 🌱 I’m currently learning ... devops 
 - 💞️ I’m looking to collaborate on ... devops 
-- 📫 How to reach me ...
+- 📫 How to reach me ...ggutturu@gmail.com
 
 <!---
 Girishreddy198/Girishreddy198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
